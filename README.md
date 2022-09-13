@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Typescript, mongoDB atlas, AWS**
 
-- 📫 How to reach me **msolat01@gmail.com**
+- 📫 Contact me: **msolat01@gmail.com**
 
-- ⚡ About me **I consider myself a sociable person with the ability to adapt to adverse environments with a wide resolution capacity with good initiative**
+- ⚡ About me: **I consider myself a sociable person with the ability to adapt to adverse environments with a wide resolution capacity with good initiative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
