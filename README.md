@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Mateo Solá Torres</h1>
+<h1 align="center">Soy Mateo Solá Torres</h1>
 
 <p align="center">
   Estudiante de Ciencia de Datos · Desarrollador · Apasionado por convertir datos e ideas en soluciones útiles
